@@ -1,0 +1,8 @@
+plugins/modules/vmware_appliance_access_info.py validate-modules:doc-required-mismatch
+plugins/modules/vmware_appliance_access_info.py validate-modules:parameter-list-no-elements
+plugins/modules/vmware_appliance_health_info.py validate-modules:doc-required-mismatch
+plugins/modules/vmware_appliance_health_info.py validate-modules:parameter-list-no-elements
+plugins/modules/vmware_cis_category_info.py validate-modules:doc-required-mismatch
+plugins/modules/vmware_cis_category_info.py validate-modules:parameter-list-no-elements
+plugins/modules/vmware_core_info.py validate-modules:doc-required-mismatch
+plugins/modules/vmware_core_info.py validate-modules:parameter-list-no-elements
